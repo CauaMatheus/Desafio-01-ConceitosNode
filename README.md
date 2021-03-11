@@ -4,6 +4,7 @@
 - [💻 Sobre o desafio](#-sobre-o-desafio)
 - [🔗 Rotas da aplicação](#-rotas-da-aplicação)
   - [POST `/users`](#post-users)
+  - [GET `/todos`](#get-todos)
   - [POST `/todos`](#get-todos)
   - [PUT `/todos/:id`](#put-todosid)
   - [PATCH `/todos/:id/done`](#patch-todosiddone)
